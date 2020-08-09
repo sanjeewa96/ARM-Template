@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Redis_seng41283_name": {
+            "value": null
+        },
+        "sites_sampleSqlWeb_name": {
+            "value": null
+        },
+        "sites_sampleEnvironment_name": {
+            "value": null
+        },
+        "servers_seng41283_name": {
+            "value": null
+        },
+        "serverfarms_ASP_SENG41283_93eb_name": {
+            "value": null
+        }
+    }
+}
